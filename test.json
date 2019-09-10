@@ -1,0 +1,9 @@
+{
+    "pictures": [
+        {
+            "jpeg_path": "/home/tom/Documents/OpenAsset/ImageMagick/flower.jpg",
+            "output_size": 100,
+            "output_file_name": "test.png"
+        }
+    ]
+}
